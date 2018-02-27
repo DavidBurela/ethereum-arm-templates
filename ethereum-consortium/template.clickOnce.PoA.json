@@ -101,7 +101,7 @@
         }
       },
       "difficulty": "0x20000",
-      "gasLimit": "0x493E00",
+      "gasLimit": "0x7A1200",
 
       "extraData": "[concat('0x', variables('e32zeroBytes'), variables('sealer'), variables('e65zeroBytes'))]",
       "alloc": {
